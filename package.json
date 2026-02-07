@@ -1,5 +1,5 @@
 {
-	"name": "n8n-nodes-resend",
+	"name": "@dnet5/n8n-nodes-resend",
 	"version": "0.1.0",
 	"description": "n8n community node for the Resend email API",
 	"keywords": [
@@ -21,6 +21,9 @@
 		"format": "prettier --write \"nodes/**/*.ts\" \"credentials/**/*.ts\"",
 		"lint": "eslint nodes/ credentials/",
 		"prepublishOnly": "npm run build"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"files": [
 		"dist"

@@ -1,4 +1,4 @@
-# n8n-nodes-resend
+# @dnet5/n8n-nodes-resend
 
 An [n8n](https://n8n.io/) community node for the [Resend](https://resend.com/) email API.
 
@@ -12,12 +12,12 @@ Resend is a modern email API for developers. This node provides full coverage of
 
 1. Go to **Settings > Community Nodes**
 2. Select **Install**
-3. Enter `n8n-nodes-resend` and confirm
+3. Enter `@dnet5/n8n-nodes-resend` and confirm
 
 ### Manual Installation
 
 ```bash
-npm install n8n-nodes-resend
+npm install @dnet5/n8n-nodes-resend
 ```
 
 ## Credentials
