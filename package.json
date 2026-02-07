@@ -1,6 +1,6 @@
 {
 	"name": "@dnet5/n8n-nodes-resend",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "n8n community node for the Resend email API",
 	"keywords": [
 		"n8n-community-node-package"
