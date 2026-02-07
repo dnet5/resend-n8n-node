@@ -1,0 +1,10 @@
+export { emailOperations, emailFields } from './EmailDescription';
+export { domainOperations, domainFields } from './DomainDescription';
+export { apiKeyOperations, apiKeyFields } from './ApiKeyDescription';
+export { contactOperations, contactFields } from './ContactDescription';
+export { broadcastOperations, broadcastFields } from './BroadcastDescription';
+export { segmentOperations, segmentFields } from './SegmentDescription';
+export { topicOperations, topicFields } from './TopicDescription';
+export { templateOperations, templateFields } from './TemplateDescription';
+export { webhookOperations, webhookFields } from './WebhookDescription';
+export { contactPropertyOperations, contactPropertyFields } from './ContactPropertyDescription';
